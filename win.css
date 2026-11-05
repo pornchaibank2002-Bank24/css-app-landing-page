@@ -13,7 +13,7 @@ body {
     color: #19192e;
 }
 
-.navbar {
+/* .navbar {
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -44,7 +44,7 @@ body {
     text-align: center;
     padding: 90px 20px 70px;
     gap: 20px;
-}
+} */
 
 
 .badge {
